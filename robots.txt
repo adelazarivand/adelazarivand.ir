@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/audio/
+
+Sitemap: https://www.adelazarivand.ir/sitemap.xml
