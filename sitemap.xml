@@ -1,139 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- ۱. صفحه اصلی -->
   <url>
-    <loc>https://www.adelazarivand.ir/</loc>
+    <loc>https://adelazarivand.ir/</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
 
-  <!-- ۲. صفحات اصلی بخش‌های سایت -->
   <url>
-    <loc>https://www.adelazarivand.ir/music.html</loc>
+    <loc>https://adelazarivand.ir/music.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/videos.html</loc>
+    <loc>https://adelazarivand.ir/videos.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/rbt.html</loc>
+    <loc>https://adelazarivand.ir/rbt.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/about.html</loc>
-    <lastmod>2026-08-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
-  </url>
-  <url>
-    <loc>https://www.adelazarivand.ir/contact.html</loc>
+    <loc>https://adelazarivand.ir/about.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
 
-  <!-- ۳. تک‌صفحات ۱۶ آهنگ -->
   <url>
-    <loc>https://www.adelazarivand.ir/music/en-buyuk-gunahim.html</loc>
+    <loc>https://adelazarivand.ir/contact.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <url>
+    <loc>https://adelazarivand.ir/music/en-buyuk-gunahim.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/gozleri-qareh.html</loc>
+    <loc>https://adelazarivand.ir/music/gozleri-qareh.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/gederam.html</loc>
+    <loc>https://adelazarivand.ir/music/gederam.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/maralim.html</loc>
+    <loc>https://adelazarivand.ir/music/maralim.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/aman-aman.html</loc>
+    <loc>https://adelazarivand.ir/music/aman-aman.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/qayid.html</loc>
+    <loc>https://adelazarivand.ir/music/qayid.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/yar-yar.html</loc>
+    <loc>https://adelazarivand.ir/music/yar-yar.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/halal-eyleh.html</loc>
+    <loc>https://adelazarivand.ir/music/halal-eyleh.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/eshqim.html</loc>
+    <loc>https://adelazarivand.ir/music/eshqim.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/ne-oldu.html</loc>
+    <loc>https://adelazarivand.ir/music/ne-oldu.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/atam.html</loc>
+    <loc>https://adelazarivand.ir/music/atam.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/biri-var.html</loc>
+    <loc>https://adelazarivand.ir/music/biri-var.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/khiyanat.html</loc>
+    <loc>https://adelazarivand.ir/music/khiyanat.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/ichiram-man.html</loc>
+    <loc>https://adelazarivand.ir/music/ichiram-man.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/insafsiz.html</loc>
+    <loc>https://adelazarivand.ir/music/insafsiz.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+
   <url>
-    <loc>https://www.adelazarivand.ir/music/yalan-dunya.html</loc>
+    <loc>https://adelazarivand.ir/music/yalan-dunya.html</loc>
     <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
